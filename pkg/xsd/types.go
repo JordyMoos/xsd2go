@@ -252,6 +252,7 @@ var staticTypes = map[string]staticType{
 	"normalizedString":   "string",
 	"token":              "string",
 	"NCName":             "string",
+	"NMTOKEN":            "string",
 	"NMTOKENS":           "string",
 	"anySimpleType":      "string",
 	"anyType":            "string",

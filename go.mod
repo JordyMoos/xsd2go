@@ -1,4 +1,4 @@
-module github.com/gocomply/xsd2go
+module github.com/JordyMoos/xsd2go
 
 go 1.18
 

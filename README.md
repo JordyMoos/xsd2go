@@ -1,8 +1,8 @@
 # XSD2Go - Automatically generate golang xml parser based on XSD
-![Build CI](https://github.com/GoComply/xsd2go/workflows/Build%20CI/badge.svg)
-[![Lint CI](https://github.com/GoComply/xsd2go/actions/workflows/lint.yaml/badge.svg)](https://github.com/GoComply/xsd2go/actions/workflows/lint.yaml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gocomply/xsd2go)](https://goreportcard.com/report/github.com/gocomply/xsd2go)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/gocomply/xsd2go)](https://pkg.go.dev/github.com/gocomply/xsd2go)
+![Build CI](https://github.com/JordyMoos/xsd2go/workflows/Build%20CI/badge.svg)
+[![Lint CI](https://github.com/JordyMoos/xsd2go/actions/workflows/lint.yaml/badge.svg)](https://github.com/JordyMoos/xsd2go/actions/workflows/lint.yaml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/JordyMoos/xsd2go)](https://goreportcard.com/report/github.com/JordyMoos/xsd2go)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/JordyMoos/xsd2go)](https://pkg.go.dev/github.com/JordyMoos/xsd2go)
 
 :warning: **You should run xsd2go, before ever importing `encoding/xml` to your project.** :warning:
 
@@ -34,5 +34,5 @@ git clone --depth 1 https://github.com/openscap/openscap
 ## Installation
 
 ```
-go get -u -v github.com/gocomply/xsd2go/cli/gocomply_xsd2go
+go get -u -v github.com/JordyMoos/xsd2go/cli/gocomply_xsd2go
 ```
